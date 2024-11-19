@@ -1,10 +1,14 @@
 BMI Calculator Web Application
 This project is a BMI calculator web application built with Node.js, Express, and MongoDB.
 
+
 Description
 This BMI Calculator allows users to input their weight and height (in cm) to calculate their Body Mass Index (BMI). The application will also save the BMI records to a MongoDB database, which you can view or manage using MongoDB Compass or MongoDB Shell.
 
+
+
 Features
+
 BMI Calculation: Calculates BMI based on the user's weight and height.
 
 Save BMI Records: Records the BMI calculation and status (Underweight, Normal, Overweight, Obesity) in a MongoDB database.
@@ -12,10 +16,16 @@ Save BMI Records: Records the BMI calculation and status (Underweight, Normal, O
 View BMI Records: You can view saved BMI records by connecting to the database through MongoDB Compass or MongoDB Shell.
 
 
+
+
 Prerequisites
+
 Node.js installed on your machine.
+
 MongoDB installed and running locally or remotely.
+
 Make sure MongoDB Compass or MongoDB Shell is accessible for database management.
+
 Getting Started
 Clone the Repository
 
