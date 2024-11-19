@@ -6,8 +6,12 @@ This BMI Calculator allows users to input their weight and height (in cm) to cal
 
 Features
 BMI Calculation: Calculates BMI based on the user's weight and height.
+
 Save BMI Records: Records the BMI calculation and status (Underweight, Normal, Overweight, Obesity) in a MongoDB database.
+
 View BMI Records: You can view saved BMI records by connecting to the database through MongoDB Compass or MongoDB Shell.
+
+
 Prerequisites
 Node.js installed on your machine.
 MongoDB installed and running locally or remotely.
